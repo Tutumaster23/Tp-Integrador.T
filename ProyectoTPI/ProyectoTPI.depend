@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1750352391 source:c:\users\tatu\desktop\enfrendados\proyectotpi\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1750352293 c:\users\tatu\desktop\enfrendados\proyectotpi\funciones.h
+
+1750366265 source:c:\users\tatu\desktop\enfrendados\proyectotpi\juego.cpp
+	<iostream>
+	"dados.h"
+
+1750366044 c:\users\tatu\desktop\enfrendados\proyectotpi\dados.h
+
+1750366928 source:c:\users\tatu\desktop\enfrendados\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+
+1750366046 c:\users\tatu\desktop\enfrendados\proyectotpi\menu.h
+
+1750366032 c:\users\tatu\desktop\enfrendados\proyectotpi\juego.h
+
+1750366966 source:c:\users\tatu\desktop\enfrendados\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750366744 source:c:\users\tatu\desktop\enfrendados\proyectotpi\dados.cpp
+	<iostream>
+
+1750367218 source:e:\progra\tpi-programacion-main\proyectotpi\dados.cpp
+	<iostream>
+
+1750456322 source:e:\progra\tpi-programacion-main\proyectotpi\juego.cpp
+	<iostream>
+	<cstdlib>
+	"tiradainicial.h"
+	"dados.h"
+
+1750367218 e:\progra\tpi-programacion-main\proyectotpi\dados.h
+
+1750454980 source:e:\progra\tpi-programacion-main\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"tiradainicial.h"
+
+1750367218 e:\progra\tpi-programacion-main\proyectotpi\menu.h
+
+1750450813 e:\progra\tpi-programacion-main\proyectotpi\juego.h
+
+1750367218 source:e:\progra\tpi-programacion-main\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750456170 e:\progra\tpi-programacion-main\proyectotpi\tiradainicial.h
+
+1750456336 source:e:\progra\tpi-programacion-main\proyectotpi\tiradainicial.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"Limpiar.h"
+
+1750454495 source:e:\progra\tpi-programacion-main\proyectotpi\limpiar.cpp
+	<iostream>
+	<cstdlib>
+
+1750454468 e:\progra\tpi-programacion-main\proyectotpi\limpiar.h
+
